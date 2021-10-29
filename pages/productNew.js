@@ -1,3 +1,3 @@
 export default function ProductNewPage() {
-  return<></>
+  return<><div></div></>
 }
